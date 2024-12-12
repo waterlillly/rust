@@ -1,0 +1,9 @@
+[package]
+name = "ex05"
+version = "0.1.0"
+edition = "2021"
+authors = ["lbaumeis"]
+publish = false
+default-run = "ex05"
+
+[dependencies]
